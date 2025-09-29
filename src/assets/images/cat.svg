@@ -1,0 +1,65 @@
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- 고양이 몸체 -->
+  <ellipse cx="100" cy="130" rx="45" ry="35" fill="#ff8c94" stroke="#333" stroke-width="2"/>
+
+  <!-- 고양이 머리 -->
+  <circle cx="100" cy="80" r="35" fill="#ff8c94" stroke="#333" stroke-width="2"/>
+
+  <!-- 고양이 귀 -->
+  <path d="M75 55 L85 40 L95 55 Z" fill="#ff8c94" stroke="#333" stroke-width="2"/>
+  <path d="M105 55 L115 40 L125 55 Z" fill="#ff8c94" stroke="#333" stroke-width="2"/>
+
+  <!-- 귀 안쪽 -->
+  <path d="M78 52 L85 43 L92 52 Z" fill="#ffb3ba"/>
+  <path d="M108 52 L115 43 L122 52 Z" fill="#ffb3ba"/>
+
+  <!-- 고양이 눈 -->
+  <ellipse cx="90" cy="75" rx="8" ry="10" fill="#333"/>
+  <ellipse cx="110" cy="75" rx="8" ry="10" fill="#333"/>
+
+  <!-- 눈 하이라이트 -->
+  <ellipse cx="88" cy="72" rx="3" ry="4" fill="#fff"/>
+  <ellipse cx="108" cy="72" rx="3" ry="4" fill="#fff"/>
+
+  <!-- 고양이 코 -->
+  <path d="M100 85 L95 90 L105 90 Z" fill="#ff69b4"/>
+
+  <!-- 고양이 입 -->
+  <path d="M100 90 Q95 95 90 90" fill="none" stroke="#333" stroke-width="2" stroke-linecap="round"/>
+  <path d="M100 90 Q105 95 110 90" fill="none" stroke="#333" stroke-width="2" stroke-linecap="round"/>
+
+  <!-- 고양이 수염 -->
+  <line x1="70" y1="80" x2="50" y2="78" stroke="#333" stroke-width="1.5"/>
+  <line x1="70" y1="85" x2="50" y2="85" stroke="#333" stroke-width="1.5"/>
+  <line x1="70" y1="90" x2="50" y2="92" stroke="#333" stroke-width="1.5"/>
+
+  <line x1="130" y1="80" x2="150" y2="78" stroke="#333" stroke-width="1.5"/>
+  <line x1="130" y1="85" x2="150" y2="85" stroke="#333" stroke-width="1.5"/>
+  <line x1="130" y1="90" x2="150" y2="92" stroke="#333" stroke-width="1.5"/>
+
+  <!-- 고양이 앞발 -->
+  <ellipse cx="80" cy="155" rx="8" ry="15" fill="#ff8c94" stroke="#333" stroke-width="2"/>
+  <ellipse cx="120" cy="155" rx="8" ry="15" fill="#ff8c94" stroke="#333" stroke-width="2"/>
+
+  <!-- 고양이 뒷발 -->
+  <ellipse cx="75" cy="170" rx="6" ry="12" fill="#ff8c94" stroke="#333" stroke-width="2"/>
+  <ellipse cx="125" cy="170" rx="6" ry="12" fill="#ff8c94" stroke="#333" stroke-width="2"/>
+
+  <!-- 고양이 꼬리 -->
+  <path d="M145 130 Q160 120 155 100 Q150 80 165 70" fill="none" stroke="#ff8c94" stroke-width="12" stroke-linecap="round"/>
+  <path d="M145 130 Q160 120 155 100 Q150 80 165 70" fill="none" stroke="#333" stroke-width="2" stroke-linecap="round"/>
+
+  <!-- 배 무늬 -->
+  <ellipse cx="100" cy="125" rx="25" ry="20" fill="#ffb3ba" opacity="0.7"/>
+
+  <!-- 발가락 -->
+  <circle cx="77" cy="167" r="2" fill="#333"/>
+  <circle cx="83" cy="167" r="2" fill="#333"/>
+  <circle cx="117" cy="167" r="2" fill="#333"/>
+  <circle cx="123" cy="167" r="2" fill="#333"/>
+
+  <circle cx="72" cy="182" r="2" fill="#333"/>
+  <circle cx="78" cy="182" r="2" fill="#333"/>
+  <circle cx="122" cy="182" r="2" fill="#333"/>
+  <circle cx="128" cy="182" r="2" fill="#333"/>
+</svg>
